@@ -9,3 +9,7 @@ NOTE: The remaining meals doesn't take into account how many more meals you will
 Visit https://jessehao05.github.io/howmanyswipes/
 
 Or, see Python terminal version for quick use: [GitHub repo](https://github.com/jessehao05/meal_swipes_python)
+
+## Analytics
+
+Using GoatCounter to track analytics for webpage. Check email to find account.
